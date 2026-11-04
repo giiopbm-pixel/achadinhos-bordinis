@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://giiopbm-pixel.github.io/achadinhos-bordinis/sitemap.xml
